@@ -1,5 +1,5 @@
 # Projeto Página SLACA para vaga de estágio.
-## Teste de estágio para a empresa   ### `Chuva.inc`
+## Teste de estágio para a empresa   `Chuva.inc`
 
 
 #### Utilizei - HTML5 | CSS | REACTJS | Ícones Material ( MUI ) | JAVASCRIPT 
