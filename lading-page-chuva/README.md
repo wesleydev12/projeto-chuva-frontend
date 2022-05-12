@@ -1,17 +1,13 @@
-# Getting Started with Create React App
+# Projeto Página SLACA para vaga de estágio.
+. Utilizei - HTML5 | CSS | REACTJS | Ícones Material ( MUI ) | JAVASCRIPT 
+. No teste nos deram uma página estática ao qual teriamos que recriá-la deixando responsiva.
+. Esse foi meu primeiro projeto e primeiro teste para uma vaga, hoje 12/05/2022 fazem 8 meses que comecei a estudar FRONTEND.
+. Fiz um curso na minha cidade que me deu um pouco de segurança, então para me testar ultilizei REACTJS & MUI. 
+. Estou muito satisfeito com o resultado e mesmo que eu não tenha consiguido a vaga, pra mim foi uma experiência importante para minha carreira.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Teste de estágio para a empresa
+### `Chuva.inc`
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 
