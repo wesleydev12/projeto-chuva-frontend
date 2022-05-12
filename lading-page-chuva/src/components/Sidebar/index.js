@@ -23,13 +23,10 @@ export default function Sidebar() {
     setMenuSidebar(!menuSidebar);
   }
   
-  
-  
   // const [menuUser, setMenuUser] = React.useState(false);
   // const handleOpenClose = () => {
   //   setMenuUser(!menuUser);
   // };
-
 
   return (
     <div>

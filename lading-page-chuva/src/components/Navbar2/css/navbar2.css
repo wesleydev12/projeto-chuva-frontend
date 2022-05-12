@@ -188,3 +188,14 @@
     padding-left: 30%;
   }
 }
+
+@media (max-width: 550px) {
+  .header-nav1 {
+    padding-right: 5%;
+  }
+
+  .header-info {
+    padding-left: 15%;
+  }
+}
+
